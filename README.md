@@ -8,7 +8,7 @@
 
 This is a very simple cpp program which can solve the sudoku problem.
 
-The size of the sudoku needn't to be 9, it can be a integer which equals some integer's square.
+The size of the sudoku board needn't to be 9, it can be a integer which equals some integer's square.
 
 Such as 4(2x2), 16(4x4)...
 
