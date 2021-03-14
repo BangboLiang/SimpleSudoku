@@ -28,7 +28,7 @@ C++
 
 ### Code
 
-See in other files.
+See in other files in folder src.
 
 I wrote some comments in the code.
 
