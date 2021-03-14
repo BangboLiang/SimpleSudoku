@@ -27,7 +27,9 @@ C++
 ## How to Use
 
 using command "make" in the src folfer to compile in linux and macos.
+
 If you're using a windows machine, use this command in poweshell or cmd(you need install g++ and add it into your path first):
+
 g++ display.cpp isvalid.cpp main.cpp sudokusolver.cpp -o sodoku
 
 In src folder.
