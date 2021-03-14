@@ -28,7 +28,7 @@ C++
 
 ### Code
 
-See in sudoku.cpp
+See in other files.
 
 I wrote some comments in the code.
 
